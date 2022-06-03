@@ -1,3 +1,10 @@
+# Description about the app
+
+This is a React app which is simple like a chatting application where we can sign in using google, send msgs to one public page and all the other users send msgs to the same public chat page(in other words, there is only one chat page where all can msg! haha:)).
+
+this is uploaded as fire base application.
+
+_____________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
